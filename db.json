@@ -1,0 +1,24 @@
+{
+  "products": [
+    {"id":1,"name":"Lizard (unidentified)","category":"Aquamarine"},
+    {"id":2,"name":"Fisher","category":"Purple"},
+    {"id":3,"name":"Woodcock, american","category":"Teal"},
+    {"id":4,"name":"Gecko, bent-toed","category":"Purple"},
+    {"id":5,"name":"Koala","category":"Mauv"},
+    {"id":6,"name":"Agouti","category":"Pink"},
+    {"id":7,"name":"White-throated monitor","category":"Red"},
+    {"id":8,"name":"Otter, canadian river","category":"Fuscia"},
+    {"id":9,"name":"Capuchin, weeper","category":"Blue"},
+    {"id":10,"name":"Otter, african clawless","category":"Puce"},
+    {"id":11,"name":"Vulture, lappet-faced","category":"Yellow"},
+    {"id":12,"name":"Badger, american","category":"Puce"},
+    {"id":13,"name":"Azara's zorro","category":"Purple"},
+    {"id":14,"name":"Openbill, asian","category":"Mauv"},
+    {"id":15,"name":"Red-tailed phascogale","category":"Purple"},
+    {"id":16,"name":"Small-toothed palm civet","category":"Pink"},
+    {"id":17,"name":"Tortoise, burmese black mountain","category":"Puce"},
+    {"id":18,"name":"Hyena, spotted","category":"Aquamarine"},
+    {"id":19,"name":"Bulbul, black-eyed","category":"Red"},
+    {"id":20,"name":"Crested bunting","category":"Goldenrod"}
+  ]
+}
